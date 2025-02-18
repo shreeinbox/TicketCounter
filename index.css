@@ -35,10 +35,10 @@ button {
 }
 
 #increment-btn {
-    background: darkred;
+    background: rgb(219, 144, 5);
 }
 
 #save-btn {
-    background: darkgreen;
+    background: rgb(25, 235, 25);
 }
 
